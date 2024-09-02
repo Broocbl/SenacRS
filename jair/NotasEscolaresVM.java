@@ -38,5 +38,7 @@ public class NotasEscolaresVM {
         for( int i= 0; i < 5; i++){
             System.out.println("O auluno -" + alunos[1][0] + "\n Média de -"+ notas[i][5]+ "\nResultado -" + alunos[i][1]+"."); 
         }
+        System.out.print(".: Sistema de notas encerrado :.");
+        System.out.print(" Alterado VS online");
     }
 }
